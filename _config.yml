@@ -1,10 +1,10 @@
 # Site settings
-title: 惠瑞杰 Blog
+title: 小Xi Blog
 SEOTitle: 小Xiの奇妙な冒険 | XRJ Blog
 header-img: img/home-bg.jpg
 email: 92460107@protonmail.com
-description: "这里是 XRJ 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Jerry, Alfur, Aqua, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 XRJ 的个人博客，与你一起发现更大的世界 | 要做一个**（没想好）"
+keyword: "Jerry, Alfur, Aqua, 小Xi, huipro, @huxpro, 林昆不叫木棍, 小Xi Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有 ***(没想好) <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
